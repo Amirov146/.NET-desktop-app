@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melodii", "Melodii\Melodii.csproj", "{40B9893F-ACD9-47AF-93FB-5D6BBD73D289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B9893F-ACD9-47AF-93FB-5D6BBD73D289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B9893F-ACD9-47AF-93FB-5D6BBD73D289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B9893F-ACD9-47AF-93FB-5D6BBD73D289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B9893F-ACD9-47AF-93FB-5D6BBD73D289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55DFD98-D544-4734-9B9D-FD30F7267669}
+	EndGlobalSection
+EndGlobal
